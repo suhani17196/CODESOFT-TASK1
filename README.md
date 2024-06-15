@@ -1,8 +1,8 @@
-Name: SUHANI GUPTA
-Company: CODESOFT
-ID:CS11WX274351
-Domain: c++
-Duration: june to july
+# Name: SUHANI GUPTA
+# Company: CODESOFT
+# ID:CS11WX274351
+# Domain: c++
+# Duration: june to july
 OVERVIEW OF THE PROJECT
 Project: NUMBER GUESSING GAME
 OBJECTIVE :
