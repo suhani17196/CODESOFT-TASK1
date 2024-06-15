@@ -3,11 +3,11 @@
 # ID:CS11WX274351
 # Domain: c++
 # Duration: june to july
-OVERVIEW OF THE PROJECT
-Project: NUMBER GUESSING GAME
-OBJECTIVE :
+# OVERVIEW OF THE PROJECT
+# Project: NUMBER GUESSING GAME
+# OBJECTIVE :
 The objective of the number guessing game program in C++ is to create an interactive game where the player attempts to guess a randomly chosen number within a specified range.
-KEY ACTIVITIES :
+# KEY ACTIVITIES :
 # Initialization and Setup:
 The program initializes by seeding the random number generator (srand(time(0));) to ensure that the generated random number varies each time the program runs.
 It selects a random number (secretNumber) between 1 and 100 using rand() % 100 + 1;.
