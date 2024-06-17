@@ -1,5 +1,5 @@
 # Name: SUHANI GUPTA
-# Company: CODESOFT
+# Company: CODSOFT
 # ID:CS11WX274351
 # Domain: c++
 # Duration: june to july
